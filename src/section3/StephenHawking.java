@@ -11,7 +11,7 @@ public class StephenHawking {
 		
 	
 	// 4. Use a for loop to repeat steps #2 and #3, a lot of times
-	for(int i=0;i<20;i++) {
+	for(int i=0;i<25;i++) {
 	// 2. ask the user for a sentence
 String Bob=JOptionPane.showInputDialog("Please enter a sentence");
 	// 3. call the speak method below and send it the sentence
